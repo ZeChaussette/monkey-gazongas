@@ -1,2 +1,3 @@
 # monkey-gazongas
-Here is to test github... after all these years!!!
+I'm getting too old for this hush. That's all. 
+- Monkey, proud author of Gazongas
